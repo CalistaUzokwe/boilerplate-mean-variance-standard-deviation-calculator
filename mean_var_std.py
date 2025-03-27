@@ -2,7 +2,7 @@ import numpy as np
 
 def calculate(lst):
     if len(lst) != 9:
-        raise ValueError("List must contain 9 numbers.")
+        raise ValueError("list must contain nine numbers.", mean_var_std.calculate, [2,6,2,8,4,0,1,])
 
     matrix = np.array(lst).reshape(3, 3)
 
