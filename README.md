@@ -26,7 +26,7 @@ pip install numpy
 4. Run the Script:
 python main.py
 
-LinkedIn: https://www.linkedin/in/uzokwecalista 
+LinkedIn:  https://www.linkedin.com/in/uzokwecalista/
 
 Portfolio: https://www.calistauzokwe.caliquantanalytics.com
 
