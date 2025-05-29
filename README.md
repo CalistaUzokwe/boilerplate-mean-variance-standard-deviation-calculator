@@ -1,3 +1,7 @@
+## About Me  
+Data Analyst & Accounting Professional skilled in Python, Excel, SQL, and Power BI.  
+Also a Web Designer and Published Author, open to remote work & visa sponsorship opportunities.
+
 # Mean-Variance-Standard Deviation Calculator
 This project is part of freeCodeCamp’s "Data Analysis with Python" course.  
 It calculates the "mean, variance, standard deviation, max, min, and sum" for rows, columns, and the entire matrix.
